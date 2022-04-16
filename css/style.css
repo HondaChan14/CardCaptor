@@ -1,0 +1,53 @@
+body{
+    background-image: url(../img/sakura.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+    ;
+}
+
+header {
+    width: 62.7vw;
+    height: 15vh;
+    padding-left: 10%;
+    /*border: 2px solid red;*/
+    text-shadow: 2px 2px black
+    
+}
+
+h1{
+    font-size: 25px;
+    color: yellow;
+}
+
+.section-container{
+    height: 70vh;
+    /*border: 2px solid blue;*/
+    padding: 0 70px;
+}
+
+#card-name{
+    position: absolute;
+    top: 70%;
+    left: 14%;
+    border-radius: 25px;
+    
+    padding: 15px, 5px, 0px, 5px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    /*border: 2px solid yellow;*/
+}
+
+button {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+
+img{
+    width: 110px;
+    position: absolute;
+    left: 15%;
+    top: 25%;
+}
